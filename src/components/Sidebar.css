@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+    padding: 20px;
+}
+.listItems{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 60px;
+
+}
